@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MazMethas
-- 👀 I’m interested in Software Code 
+- 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on code,Python JavaScrip HTML 
+- 💞️ I’m looking to collaborate on Programming such as Python  HTML CSS React Golang Java  
 - 📫 How to reach me ...
 
 <!---
