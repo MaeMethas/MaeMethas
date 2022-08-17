@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MazMethas
+- 👋 Hi, I’m @Methas
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on Programming such as Python  HTML CSS React Golang Java  
