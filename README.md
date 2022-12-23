@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Methas
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on Programming such as Python  HTML CSS React Golang Java  
+- 👋 Hi, I’m Methas Pampoompong
+- 👀 I’m interested in Web dev & Database
+- 🌱 I’m currently I'm study at SUT on  Computer Engineering
+- 💞️ I’m looking to collaborate on Web dev & abroad  
 - 📫 How to reach me ...
 
 <!---
